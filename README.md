@@ -40,3 +40,26 @@ Hello, Spring Boot!
 ## Project Status
 
 Basic Spring Boot REST API completed successfully.
+
+
+Spring Boot Demo
+
+This is my first Spring Boot project.
+
+Technologies
+
+- Java
+- Spring Boot
+- Maven
+
+Features
+
+- Created a REST Controller
+- Created a simple GET API
+- Returns a Hello World message
+
+How to Run
+
+Run "DemoApplication.java" and open:
+
+"http://localhost:8080/"
