@@ -63,3 +63,14 @@ How to Run
 Run "DemoApplication.java" and open:
 
 "http://localhost:8080/"
+
+MyApp
+My first Spring Boot project.
+Learned
+Spring Boot
+Spring IoC
+@Component
+ApplicationContext
+getBean()
+Output
+I am building project 
