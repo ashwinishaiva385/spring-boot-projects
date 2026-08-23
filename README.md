@@ -74,3 +74,25 @@ ApplicationContext
 getBean()
 Output
 I am building project 
+
+
+
+Spring Boot Dependency Injection
+In this project, I learned and implemented Dependency Injection using @Autowired in Spring Boot.
+Concepts Learned
+@Autowired
+Field Injection
+Setter Injection
+Constructor Injection
+@Component
+Interface-based Dependency Injection
+
+
+Spring Boot @Primary and @Qualifier
+In this project, I learned how to handle multiple beans of the same type using @Primary and @Qualifier.
+Concepts Learned
+@Primary
+@Qualifier
+Multiple Spring Beans
+Dependency Injection
+@Autowired
