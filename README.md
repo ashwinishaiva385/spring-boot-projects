@@ -120,3 +120,44 @@ The application returns:
 - Java
 - Spring Boot
 - Maven
+
+
+# Spring Boot Product API
+
+Simple Spring Boot project created while learning Spring MVC and REST API.
+
+## Technologies
+- Java
+- Spring Boot
+- Spring MVC
+- REST API
+- JSON
+
+## Concepts Learned
+- @RestController
+- @Service
+- @Autowired
+- @RequestMapping
+- Getter and Setter
+- JSON
+
+## API
+
+GET `/products`
+
+Returns product details in JSON format.
+
+## Example
+
+[
+  {
+    "name": "Iphone",
+    "id": 101,
+    "price": 10000
+  },
+  {
+    "name": "Andriod",
+    "id": 102,
+    "price": 20000
+  }
+]
