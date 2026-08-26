@@ -44,7 +44,17 @@ public class Product
     {
        product_price=price;
     }
-    
+
+   @Override
+   public String toString()
+   {
+    return "product{"+
+           "prodId="+product_id +
+           ",ProdName='"+ product_name +'\''+
+           ",price="+product_price+
+           '}';
+
+   }  
    
     
 }
