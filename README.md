@@ -161,3 +161,8 @@ Returns product details in JSON format.
     "price": 20000
   }
 ]
+
+#comcept leaned
+@GetMapping
+@PostMapping
+and tested using postman tool
