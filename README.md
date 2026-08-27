@@ -166,3 +166,34 @@ Returns product details in JSON format.
 @GetMapping
 @PostMapping
 and tested using postman tool
+
+
+Spring Boot Product API
+
+This is my simple Spring Boot project for learning REST APIs.
+
+Technologies
+
+- Java
+- Spring Boot
+- Postman
+
+Operations
+
+- GET - Get products
+- POST - Add product
+- PUT - Update product
+- DELETE - Delete product
+
+Testing
+
+I tested the APIs using Postman.
+
+What I Learned
+
+- REST API
+- Controller
+- Service
+- "@RequestBody"
+- "@PathVariable"
+- GET, POST, PUT and DELETE
