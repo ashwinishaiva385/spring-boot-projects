@@ -197,3 +197,70 @@ What I Learned
 - "@RequestBody"
 - "@PathVariable"
 - GET, POST, PUT and DELETE
+
+
+# Spring Boot Product API
+
+This is a simple Spring Boot project created to learn backend development using Java and Spring Boot.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- H2 Database
+- REST API
+- Postman
+- Maven
+
+## Features
+
+- Create Product
+- Get Product
+- Update Product
+- Delete Product
+- Store product data using H2 database
+- Test REST APIs using Postman
+
+## Database
+
+This project uses H2 in-memory database.
+
+H2 Console:
+
+http://localhost:8094/h2-console
+
+JDBC URL:
+
+jdbc:h2:mem:test
+
+## Product Details
+
+The Product table contains:
+
+- Product ID
+- Product Price
+- Product Name
+
+## How to Run
+
+1. Clone the project.
+2. Open the project in VS Code or IntelliJ.
+3. Run the Spring Boot application.
+4. The application runs on:
+
+http://localhost:8094
+
+5. Use Postman to test the APIs.
+
+## Learning Progress
+
+This project helped me understand:
+
+- Spring Boot REST APIs
+- JPA and Hibernate
+- H2 Database
+- Connecting Spring Boot with a database
+- CRUD operations
+- Testing APIs using Postman
