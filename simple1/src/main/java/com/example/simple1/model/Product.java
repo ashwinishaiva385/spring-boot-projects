@@ -2,10 +2,15 @@ package com.example.simple1.model;
 
 import org.springframework.stereotype.Component;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
 @Component
+@Entity
 public class Product 
 {
     private String product_name;
+    @Id
     private int product_id;
     private int product_price;
     public Product()
