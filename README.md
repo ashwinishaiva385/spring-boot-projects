@@ -1,0 +1,266 @@
+# spring-boot-projects
+My spring boot learning projects and REST APIs
+
+# Spring Boot Student API
+
+This is my first Spring Boot web application created using Java and Spring Boot.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Maven
+- REST API
+- Git & GitHub
+
+## Features
+
+- Created a Spring Boot application
+- Created a REST Controller
+- Created a simple GET API
+- Tested the API using a web browser
+
+## API Endpoint
+
+GET `/hello`
+
+Response:
+
+Hello, Spring Boot!
+
+## How to Run
+
+1. Clone the repository
+2. Open the project in VS Code or Eclipse
+3. Run `StudentApiApplication.java`
+4. Open the browser and visit:
+
+`http://localhost:8080/hello`
+
+## Project Status
+
+Basic Spring Boot REST API completed successfully.
+
+
+Spring Boot Demo
+
+This is my first Spring Boot project.
+
+Technologies
+
+- Java
+- Spring Boot
+- Maven
+
+Features
+
+- Created a REST Controller
+- Created a simple GET API
+- Returns a Hello World message
+
+How to Run
+
+Run "DemoApplication.java" and open:
+
+"http://localhost:8080/"
+
+MyApp
+My first Spring Boot project.
+Learned
+Spring Boot
+Spring IoC
+@Component
+ApplicationContext
+getBean()
+Output
+I am building project 
+
+
+
+Spring Boot Dependency Injection
+In this project, I learned and implemented Dependency Injection using @Autowired in Spring Boot.
+Concepts Learned
+@Autowired
+Field Injection
+Setter Injection
+Constructor Injection
+@Component
+Interface-based Dependency Injection
+
+
+Spring Boot @Primary and @Qualifier
+In this project, I learned how to handle multiple beans of the same type using @Primary and @Qualifier.
+Concepts Learned
+@Primary
+@Qualifier
+Multiple Spring Beans
+Dependency Injection
+@Autowired
+
+
+# Simple1 - Spring Boot Project
+
+This is a simple Spring Boot project created to learn basic Spring Boot annotations.
+
+## Concepts Learned
+
+- @Controller
+- @RequestMapping
+- @ResponseBody
+- @RestController
+
+## Output
+
+The application returns:
+
+"Welcome to Ash Projects"
+
+## Technologies
+
+- Java
+- Spring Boot
+- Maven
+
+
+# Spring Boot Product API
+
+Simple Spring Boot project created while learning Spring MVC and REST API.
+
+## Technologies
+- Java
+- Spring Boot
+- Spring MVC
+- REST API
+- JSON
+
+## Concepts Learned
+- @RestController
+- @Service
+- @Autowired
+- @RequestMapping
+- Getter and Setter
+- JSON
+
+## API
+
+GET `/products`
+
+Returns product details in JSON format.
+
+## Example
+
+[
+  {
+    "name": "Iphone",
+    "id": 101,
+    "price": 10000
+  },
+  {
+    "name": "Andriod",
+    "id": 102,
+    "price": 20000
+  }
+]
+
+#comcept leaned
+@GetMapping
+@PostMapping
+and tested using postman tool
+
+
+Spring Boot Product API
+
+This is my simple Spring Boot project for learning REST APIs.
+
+Technologies
+
+- Java
+- Spring Boot
+- Postman
+
+Operations
+
+- GET - Get products
+- POST - Add product
+- PUT - Update product
+- DELETE - Delete product
+
+Testing
+
+I tested the APIs using Postman.
+
+What I Learned
+
+- REST API
+- Controller
+- Service
+- "@RequestBody"
+- "@PathVariable"
+- GET, POST, PUT and DELETE
+
+
+# Spring Boot Product API
+
+This is a simple Spring Boot project created to learn backend development using Java and Spring Boot.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- H2 Database
+- REST API
+- Postman
+- Maven
+
+## Features
+
+- Create Product
+- Get Product
+- Update Product
+- Delete Product
+- Store product data using H2 database
+- Test REST APIs using Postman
+
+## Database
+
+This project uses H2 in-memory database.
+
+H2 Console:
+
+http://localhost:8094/h2-console
+
+JDBC URL:
+
+jdbc:h2:mem:test
+
+## Product Details
+
+The Product table contains:
+
+- Product ID
+- Product Price
+- Product Name
+
+## How to Run
+
+1. Clone the project.
+2. Open the project in VS Code or IntelliJ.
+3. Run the Spring Boot application.
+4. The application runs on:
+
+http://localhost:8094
+
+5. Use Postman to test the APIs.
+
+## Learning Progress
+
+This project helped me understand:
+
+- Spring Boot REST APIs
+- JPA and Hibernate
+- H2 Database
+- Connecting Spring Boot with a database
+- CRUD operations
+- Testing APIs using Postman
