@@ -304,3 +304,38 @@ src
     └── resources
         ├── application.properties
         └── data.sql
+
+
+# E-Commerce Product Backend
+
+A simple REST API backend built using Java and Spring Boot.
+This project performs CRUD operations for products.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- MySQL / H2 Database
+- REST API
+- Maven
+- Postman
+- Git & GitHub
+
+## Features
+
+- Add a product
+- Get all products
+- Get product by ID
+- Update a product
+- Delete a product
+- Search products
+- Product image upload and retrieval
+
+## API Endpoints
+
+### Get All Products
+
+```http
+GET /api/product
