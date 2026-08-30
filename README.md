@@ -264,3 +264,43 @@ This project helped me understand:
 - Connecting Spring Boot with a database
 - CRUD operations
 - Testing APIs using Postman
+
+
+# Product Management REST API
+
+A simple REST API built using Spring Boot to manage product information.
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- H2 Database
+- Lombok
+- Postman
+
+## Features
+
+- Get all products
+- Store product details in H2 database
+- Use JPA/Hibernate for database operations
+- REST API for accessing product data
+- Test API using Postman and Browser
+
+## Project Structure
+
+```text
+src
+└── main
+    ├── java
+    │   └── com.example.ecom
+    │       ├── controller
+    │       ├── service
+    │       ├── repository
+    │       └── model
+    │
+    └── resources
+        ├── application.properties
+        └── data.sql
