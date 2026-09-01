@@ -339,3 +339,38 @@ This project performs CRUD operations for products.
 
 ```http
 GET /api/product
+
+
+# Spring Security Learning Project 🔐
+
+This project is created while learning **Spring Security with Spring Boot**.
+
+The main goal of this project is to understand how Spring Security provides authentication and protects Spring Boot REST APIs.
+
+## 🚀 Technologies Used
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Web
+- Maven
+
+## 📚 What I Learned
+
+- Adding Spring Security to a Spring Boot project
+- Understanding default Spring Security configuration
+- Default username and generated password
+- Authentication using Spring Security
+- Securing REST endpoints
+- Spring Security login page
+- Logout functionality
+- Understanding HTTP request authentication
+
+## 🔐 Default Security
+
+When Spring Security is added without custom configuration, Spring Security automatically creates a default user.
+
+The username is:
+
+```text
+user
