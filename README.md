@@ -374,3 +374,26 @@ The username is:
 
 ```text
 user
+
+Servlet Container and Front Controller
+
+Overview
+
+This project explains how a request is handled in a Java web application.
+
+Request Flow
+
+Browser → Tomcat → Front Controller → Controller → Response
+
+- The browser sends a request.
+- Tomcat receives the request.
+- The Front Controller sends it to the correct controller.
+- The controller processes the request.
+- The response is sent back to the browser.
+
+Concepts Learned
+
+- Servlet Container
+- Tomcat
+- Front Controller
+- Request and Response
