@@ -278,7 +278,6 @@ A simple REST API built using Spring Boot to manage product information.
 - Spring Data JPA
 - Hibernate
 - H2 Database
-- Lombok
 - Postman
 
 ## Features
@@ -341,13 +340,13 @@ This project performs CRUD operations for products.
 GET /api/product
 
 
-# Spring Security Learning Project 🔐
+# Spring Security Learning Project 
 
 This project is created while learning **Spring Security with Spring Boot**.
 
 The main goal of this project is to understand how Spring Security provides authentication and protects Spring Boot REST APIs.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Java
 - Spring Boot
@@ -355,7 +354,7 @@ The main goal of this project is to understand how Spring Security provides auth
 - Spring Web
 - Maven
 
-## 📚 What I Learned
+##  What I Learned
 
 - Adding Spring Security to a Spring Boot project
 - Understanding default Spring Security configuration
@@ -397,3 +396,30 @@ Concepts Learned
 - Tomcat
 - Front Controller
 - Request and Response
+
+
+# Spring Security 
+
+This project is about basic Spring Security.
+
+## Learned
+
+- Spring Security
+- Filter Chain
+- Front Controller
+- Username & Password Authentication
+- Session ID
+- Basic Authentication
+
+## Testing
+
+Tested the API using Postman with Basic Authentication.
+
+Result: **200 OK** 
+
+## Technologies
+
+- Java
+- Spring Boot
+- Spring Security
+- Postman
