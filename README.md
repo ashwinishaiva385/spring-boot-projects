@@ -423,3 +423,29 @@ Result: **200 OK**
 - Spring Boot
 - Spring Security
 - Postman
+
+
+# Spring Security - CSRF & CRUD
+
+This project is created while learning Spring Security and REST APIs with Spring Boot.
+
+## Topics Learned
+
+- Spring Security basics
+- CSRF (Cross-Site Request Forgery)
+- CSRF Token
+- GET request
+- POST request
+- Adding students
+- Modifying/Updating students
+- Deleting students
+- Using `@RequestBody`
+- Using `HttpServletRequest`
+- Working with REST APIs
+
+## API Endpoints
+
+### Get Students
+
+```http
+GET /students
