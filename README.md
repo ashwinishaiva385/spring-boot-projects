@@ -449,3 +449,33 @@ This project is created while learning Spring Security and REST APIs with Spring
 
 ```http
 GET /students
+
+
+# Spring Security
+
+This project is for learning the basics of Spring Security with Spring Boot.
+
+## Concepts Learned
+
+- `@Configuration`
+- `@EnableWebSecurity`
+- `@Bean`
+- `SecurityFilterChain`
+- `HttpSecurity`
+- CSRF
+- Authentication
+- Form Login
+- HTTP Basic Authentication
+- Stateless Session
+
+## Security Configuration
+
+- CSRF is disabled for this learning setup.
+- All requests require authentication.
+- Form Login is enabled.
+- HTTP Basic Authentication is enabled.
+- Session management is set to `STATELESS`.
+
+## Goal
+
+To understand the basics of Spring Security and how security filters protect backend APIs.
