@@ -479,3 +479,37 @@ This project is for learning the basics of Spring Security with Spring Boot.
 ## Goal
 
 To understand the basics of Spring Security and how security filters protect backend APIs.
+
+
+
+# Hospital Management System
+
+A backend project built using Java and Spring Boot.
+
+## Technologies Used
+
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- H2 Database
+- Maven
+- REST API
+- Postman
+
+## Current Features
+
+- Patient management
+- Patient entity
+- Patient repository
+- Patient service
+- Patient REST controller
+- Save patient using POST API
+- H2 database connection
+
+## API
+
+### Add Patient
+
+**POST**
+```text
+http://localhost:8010/patients
