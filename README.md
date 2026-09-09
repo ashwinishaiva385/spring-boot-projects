@@ -513,3 +513,19 @@ A backend project built using Java and Spring Boot.
 **POST**
 ```text
 http://localhost:8010/patients
+
+
+Spring Boot Learning
+
+What I Learned
+
+Spring Security
+
+- Learned about the Spring Security Filter Chain.
+- Understood how username and password authentication works.
+- Learned how user details can be loaded from a database.
+- Learned about "UserDetails" and "UserDetailsService".
+- Learned about "BCryptPasswordEncoder" for securely hashing passwords.
+- Understood the basic authentication flow from login request to database verification.
+
+«Currently learning the concepts. Implementation will be done in the upcoming project.»
